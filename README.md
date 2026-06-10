@@ -15,12 +15,12 @@ If you're into any of the same things — tech, games, or just want to chat — 
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquetgr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquetgr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&hide=css,jupyter%20notebook" alt="Top Langs" width="400" />
       </a>
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,py,js,nodejs,swift,aws,docker,kafka,postgres,mysql,redis,mongodb,dynamodb,gradle,maven,git,github,idea,vscode,prometheus,grafana&perline=12&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,py,js,nodejs,swift,aws,docker,kafka,postgres,mysql,redis,mongodb,dynamodb,gradle,maven,git,github,idea,vscode,prometheus,grafana&perline=8&theme=dark" />
       </a>
     </td>
   </tr>
