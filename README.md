@@ -1,14 +1,12 @@
 ## Hello there! I'm Caique 👋
 
-I build backends for a living — and I genuinely enjoy it. Graduated in Systems Analysis and Development from **IFSP (São Paulo Federal Institute)**, I've spent my career bouncing between consulting gigs and in-house engineering roles, and the variety is what keeps me sharp.
-
-These days I'm a **Senior Software Engineer** working mostly with **Java + Spring**, with **Kotlin**, **Go**, and **Node.js** showing up whenever the project calls for them. I've also done my fair share of **Android** and **iOS** work along the way — being a T-shaped developer was less of a choice and more of a survival skill, and I ended up enjoying it.
+I build backends (and more)! Graduated in Systems Analysis and Development from **IFSP (São Paulo Federal Institute)**, I'm a **Senior Software Engineer** working for 9 years, mostly with **Java + Spring**, and **Kotlin**, **Go**, **Node.js** showing up whenever the project calls for them. I've also done a little bit of **Android** and **iOS** work along the way, experimenting the T-shaped developer style and it was mind-blowing for me, discovering that I'm capable of more than just backend.
 
 Most of what I've built runs on **microservices**, in places like fintech (PIX, Open Finance, payment slips, in-store payments, invoicing), social (feeds, chat), and education (intern hiring, online learning).
 
-Currently, I'm deep into **AI-driven development** — partly by opportunity, partly by choice. In my current job I took on the challenge of figuring this stuff out early, ran sessions for the team, and somehow became the go-to person colleagues ping when they have questions about it. I work a lot with **Claude Code**, **Cursor**, **Codex**, and I'm pretty comfortable with concepts like prompt engineering, context engineering, **RAG**, **MCPs**, AI agents, and **AGENTS.md / CLAUDE.md**. 
+Currently, I'm deep into **AI-driven development** (partly by opportunity, partly by choice). In my current job I took on the challenge of figuring this stuff out early, ran sessions for the team, and became the go-to person colleagues can ask when they have questions about it. I work a lot with **Claude Code**, **Cursor**, **Codex**, and I'm pretty comfortable with concepts like prompt engineering, context engineering, **RAG**, **MCPs**, AI agents, and **AGENTS.md / CLAUDE.md**. 
 
-Outside of code, I'm a big **retro games** fan — at some point I even ran a video games YouTube channel. I also follow **sports** (Vai Corinthians!), watch a fair bit of **anime**, love going out to eat with my wife, and of course, I love learning new things in technology. 🤘
+Outside of code, I'm a big **retro games** fan — at some point I even ran a video games YouTube channel! I also follow **sports** (Vai Corinthians!), watch a fair bit of **anime**, love going out to eat with my wife, and of course, I love learning new things in technology. 🤘
 
 If you're into any of the same things — tech, games, or just want to chat — feel free to reach out.
 
