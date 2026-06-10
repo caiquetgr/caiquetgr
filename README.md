@@ -10,8 +10,17 @@ Outside of code, I'm a big **retro games** fan — at some point I even ran a vi
 
 If you're into any of the same things — tech, games, or just want to chat — feel free to reach out.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,py,js,nodejs,swift,aws,docker,kafka,postgres,mysql,redis,mongodb,dynamodb,gradle,maven,git,github,idea,vscode,prometheus,grafana&perline=12&theme=dark" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquetgr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,py,js,nodejs,swift,aws,docker,kafka,postgres,mysql,redis,mongodb,dynamodb,gradle,maven,git,github,idea,vscode,prometheus,grafana&perline=12&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
