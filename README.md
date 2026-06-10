@@ -10,7 +10,8 @@ Outside of code, I'm a big **retro games** fan — at some point I even ran a vi
 
 If you're into any of the same things — tech, games, or just want to chat — feel free to reach out.
 
-<table>
+<center>
+<table border="0">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,3 +25,4 @@ If you're into any of the same things — tech, games, or just want to chat — 
     </td>
   </tr>
 </table>
+</center>
