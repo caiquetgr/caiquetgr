@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello there! I'm Caique 👋
 
-<!--
-**caiquetgr/caiquetgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backends for a living — and I genuinely enjoy it. Graduated in Systems Analysis and Development from **IFSP (São Paulo Federal Institute)**, I've spent my career bouncing between consulting gigs and in-house engineering roles, and the variety is what keeps me sharp.
 
-Here are some ideas to get you started:
+These days I'm a **Senior Software Engineer** working mostly with **Java + Spring**, with **Kotlin**, **Go**, and **Node.js** showing up whenever the project calls for them. I've also done my fair share of **Android** and **iOS** work along the way — being a T-shaped developer was less of a choice and more of a survival skill, and I ended up enjoying it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of what I've built runs on **microservices**, in places like fintech (PIX, Open Finance, payment slips, in-store payments, invoicing), social (feeds, chat), and education (intern hiring, online learning).
+
+Currently, I'm deep into **AI-driven development** — partly by opportunity, partly by choice. In my current job I took on the challenge of figuring this stuff out early, ran sessions for the team, and somehow became the go-to person colleagues ping when they have questions about it. I work a lot with **Claude Code**, **Cursor**, **Codex**, and I'm pretty comfortable with concepts like prompt engineering, context engineering, **RAG**, **MCPs**, AI agents, and **AGENTS.md / CLAUDE.md**. 
+
+Outside of code, I'm a big **retro games** fan — at some point I even ran a video games YouTube channel. I also follow **sports** (Vai Corinthians!), watch a fair bit of **anime**, love going out to eat with my wife, and of course, I love learning new things in technology. 🤘
+
+If you're into any of the same things — tech, games, or just want to chat — feel free to reach out.
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,py,js,nodejs,swift,aws,docker,kafka,postgres,mysql,redis,mongodb,dynamodb,gradle,maven,git,github,idea,vscode,prometheus,grafana&perline=12&theme=dark" />
+  </a>
+</p>
