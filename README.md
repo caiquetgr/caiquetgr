@@ -14,7 +14,7 @@ If you're into any of the same things — tech, games, or just want to chat — 
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquetgr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Langs" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquetgr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Langs" width="500" />
       </a>
     </td>
     <td>
